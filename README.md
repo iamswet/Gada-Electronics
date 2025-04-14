@@ -11,8 +11,6 @@ There are several ways of editing your application.
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/5db7efa1-05ed-48bc-833c-dd7f3c52bd27) and start prompting.
-URL for the project to be updated
-
 
 Changes made via Lovable will be committed automatically to this repo.
 
